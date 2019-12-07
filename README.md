@@ -19,8 +19,11 @@ Suggested KPIs, as presented at HACK.LU 2019 are:
 
 
 The full slides will be published end of November 2019, the Video recording already can be found here: https://www.youtube.com/watch?v=NifSKzogSrI
+More metric suggestions can be found in the Wiki: https://github.com/d3sre/Use_Case_Applicability/wiki/KPIs-and-Metrics
 
 Before FIRST, there also was a podcast published where I could talk to Chris John Riley about this taxonomy and the thoughts behind. This recording can be found here: https://media.first.org/podcasts/FIRST2019-DesireeSacher.mp3
+
+The most asked questions have been answered in the FAQ: https://github.com/d3sre/Use_Case_Applicability/wiki/Frequently-Asked-Questions
 
 ## Authors and acknowledgment
 This paper was written by [Desiree Sacher](http://www.twitter.com/d3sre)
